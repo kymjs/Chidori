@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/kymjs/code/ASspace/ChidoriProject/Chidori/sample/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/kymjs/.android/build-cache/d8ca445d140b348b5a2462ae5a6c81fa4e09672f/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/kymjs/code/ASspace/ChidoriProject/Chidori/sample/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/kymjs/.android/build-cache/d8ca445d140b348b5a2462ae5a6c81fa4e09672f/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/kymjs/code/ASspace/ChidoriProject/Chidori/sample/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/kymjs/.android/build-cache/d8ca445d140b348b5a2462ae5a6c81fa4e09672f/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/kymjs/code/ASspace/ChidoriProject/Chidori/sample/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/kymjs/.android/build-cache/d8ca445d140b348b5a2462ae5a6c81fa4e09672f/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/kymjs/code/ASspace/ChidoriProject/Chidori/sample/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/kymjs/.android/build-cache/d8ca445d140b348b5a2462ae5a6c81fa4e09672f/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/kymjs/code/ASspace/ChidoriProject/Chidori/sample/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/kymjs/.android/build-cache/d8ca445d140b348b5a2462ae5a6c81fa4e09672f/output/res/layout-v11/notification_media_cancel_action.xml"
+    }
+]

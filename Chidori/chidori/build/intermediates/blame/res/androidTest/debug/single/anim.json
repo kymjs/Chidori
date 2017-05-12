@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_out.xml",
+        "source": "/Users/kymjs/.android/build-cache/ee633ae6185542c4324d9585d6b8c9edcc749bcf/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/kymjs/.android/build-cache/ee633ae6185542c4324d9585d6b8c9edcc749bcf/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/res/merged/androidTest/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/kymjs/.android/build-cache/ee633ae6185542c4324d9585d6b8c9edcc749bcf/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/res/merged/androidTest/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/kymjs/.android/build-cache/ee633ae6185542c4324d9585d6b8c9edcc749bcf/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/kymjs/.android/build-cache/ee633ae6185542c4324d9585d6b8c9edcc749bcf/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/kymjs/.android/build-cache/ee633ae6185542c4324d9585d6b8c9edcc749bcf/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/kymjs/.android/build-cache/ee633ae6185542c4324d9585d6b8c9edcc749bcf/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/res/merged/androidTest/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/kymjs/.android/build-cache/ee633ae6185542c4324d9585d6b8c9edcc749bcf/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_in.xml",
+        "source": "/Users/kymjs/.android/build-cache/ee633ae6185542c4324d9585d6b8c9edcc749bcf/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/res/merged/androidTest/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/kymjs/.android/build-cache/ee633ae6185542c4324d9585d6b8c9edcc749bcf/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    }
+]

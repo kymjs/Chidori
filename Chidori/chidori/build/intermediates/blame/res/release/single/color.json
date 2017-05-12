@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/kymjs/.android/build-cache/ee633ae6185542c4324d9585d6b8c9edcc749bcf/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/kymjs/.android/build-cache/ee633ae6185542c4324d9585d6b8c9edcc749bcf/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/Users/kymjs/.android/build-cache/ee633ae6185542c4324d9585d6b8c9edcc749bcf/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/Users/kymjs/.android/build-cache/ee633ae6185542c4324d9585d6b8c9edcc749bcf/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/kymjs/.android/build-cache/ee633ae6185542c4324d9585d6b8c9edcc749bcf/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/kymjs/.android/build-cache/ee633ae6185542c4324d9585d6b8c9edcc749bcf/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/Users/kymjs/.android/build-cache/ee633ae6185542c4324d9585d6b8c9edcc749bcf/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/Users/kymjs/.android/build-cache/ee633ae6185542c4324d9585d6b8c9edcc749bcf/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/kymjs/.android/build-cache/ee633ae6185542c4324d9585d6b8c9edcc749bcf/output/res/color/abc_secondary_text_material_dark.xml"
+    }
+]

@@ -1,0 +1,26 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.kymjs.event">
+
+    <permission android:name="com.kymjs.event.EventBus.Chidori"/>
+    <uses-permission android:name="com.kymjs.event.EventBus.Chidori"/>
+
+
+    <application
+        android:allowBackup="true"
+        android:supportsRtl="true">
+
+        <receiver
+            android:name="com.kymjs.event.remote.ChidoriClient"
+            android:exported="true"
+            android:permission="com.kymjs.event.EventBus.Chidori"
+            android:process=":remote">
+            <intent-filter>
+                <action android:name="com.kymjs.event.EventBus.Chidori"/>
+            </intent-filter>
+        </receiver>
+
+        <service android:name="com.kymjs.event.remote.ChidoriServer"/>
+
+    </application>
+
+</manifest>

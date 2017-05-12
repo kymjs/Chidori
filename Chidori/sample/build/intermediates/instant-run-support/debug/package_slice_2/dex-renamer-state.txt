@@ -1,0 +1,4 @@
+#Thu May 11 17:43:22 CST 2017
+base.0=/Users/kymjs/code/ASspace/ChidoriProject/Chidori/sample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
+renamed.0=classes.dex
+file.0=/Users/kymjs/code/ASspace/ChidoriProject/Chidori/sample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex
