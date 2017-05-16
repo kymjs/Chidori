@@ -14,6 +14,9 @@ out
 .gradle
 /local.properties
 /build
+gradlew
+gradlew.bat
+/gradle
 
 ###OSX###
 
