@@ -1,7 +1,0 @@
-#Thu May 11 17:47:37 CST 2017
-base.0=/Users/kymjs/code/ASspace/ChidoriProject/Chidori/sample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_989eb8efeadabf531ca6b434074a0336fba937fb
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/Users/kymjs/code/ASspace/ChidoriProject/Chidori/sample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9e9715c9a25770ae7ecbfddc0943422851a74d2d/classes.dex
-base.1=/Users/kymjs/code/ASspace/ChidoriProject/Chidori/sample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9e9715c9a25770ae7ecbfddc0943422851a74d2d
-file.0=/Users/kymjs/code/ASspace/ChidoriProject/Chidori/sample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_989eb8efeadabf531ca6b434074a0336fba937fb/classes.dex

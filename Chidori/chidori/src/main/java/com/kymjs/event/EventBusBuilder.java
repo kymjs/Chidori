@@ -72,7 +72,6 @@ public class EventBusBuilder {
 
     /**
      * Fails if an subscriber throws an exception (default: false).
-     * <p/>
      * Tip:建议与BuildConfig.DEBUG配合使用,用于调试模式时显示崩溃日志。
      */
     public EventBusBuilder throwSubscriberException(boolean throwSubscriberException) {
@@ -81,13 +80,7 @@ public class EventBusBuilder {
     }
 
     /**
-     * 事件继承?event类型的子类也能响应订阅者
-     * By default, EventBus considers the event class hierarchy (subscribers to super classes
-     * will be notified).
-     * Switching this feature off will improve posting of events. For simple event classes
-     * extending Object directly,
-     * we measured a speed up of 20% for event posting. For more complex event hierarchies, the
-     * speed up should be >20%.
+     * 事件继承 event类型的子类也能响应订阅者
      */
     public EventBusBuilder eventInheritance(boolean eventInheritance) {
         this.eventInheritance = eventInheritance;
