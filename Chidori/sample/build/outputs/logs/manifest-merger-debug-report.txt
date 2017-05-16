@@ -15,7 +15,7 @@ ADDED from /Users/kymjs/code/ASspace/ChidoriProject/Chidori/sample/src/main/Andr
 		INJECTED from /Users/kymjs/code/ASspace/ChidoriProject/Chidori/sample/src/main/AndroidManifest.xml
 application
 ADDED from /Users/kymjs/code/ASspace/ChidoriProject/Chidori/sample/src/main/AndroidManifest.xml:5:5-18:19
-MERGED from [Chidori:chidori:unspecified] /Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/bundles/default/AndroidManifest.xml:15:5-29:19
+MERGED from [com.kymjs.event:chidori:1.0.0] /Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/bundles/default/AndroidManifest.xml:15:5-29:19
 MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/kymjs/.android/build-cache/d8ca445d140b348b5a2462ae5a6c81fa4e09672f/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-v4:25.3.1] /Users/kymjs/.android/build-cache/7c970b5a26b6f9b8366fd4318a13b73955cdac6b/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:25.3.1] /Users/kymjs/.android/build-cache/38371e5ec80eb72617646cf99060f069b813e0da/output/AndroidManifest.xml:29:5-20
@@ -51,7 +51,7 @@ ADDED from /Users/kymjs/code/ASspace/ChidoriProject/Chidori/sample/src/main/Andr
 		ADDED from /Users/kymjs/code/ASspace/ChidoriProject/Chidori/sample/src/main/AndroidManifest.xml:15:27-74
 uses-sdk
 INJECTED from /Users/kymjs/code/ASspace/ChidoriProject/Chidori/sample/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [Chidori:chidori:unspecified] /Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.kymjs.event:chidori:1.0.0] /Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/kymjs/.android/build-cache/d8ca445d140b348b5a2462ae5a6c81fa4e09672f/output/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:support-v4:25.3.1] /Users/kymjs/.android/build-cache/7c970b5a26b6f9b8366fd4318a13b73955cdac6b/output/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-fragment:25.3.1] /Users/kymjs/.android/build-cache/38371e5ec80eb72617646cf99060f069b813e0da/output/AndroidManifest.xml:21:5-23:60
@@ -70,33 +70,33 @@ MERGED from [com.android.support:support-compat:25.3.1] /Users/kymjs/.android/bu
 		INJECTED from /Users/kymjs/code/ASspace/ChidoriProject/Chidori/sample/src/main/AndroidManifest.xml
 		INJECTED from /Users/kymjs/code/ASspace/ChidoriProject/Chidori/sample/src/main/AndroidManifest.xml
 permission#com.kymjs.event.EventBus.Chidori
-ADDED from [Chidori:chidori:unspecified] /Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/bundles/default/AndroidManifest.xml:11:5-67
+ADDED from [com.kymjs.event:chidori:1.0.0] /Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/bundles/default/AndroidManifest.xml:11:5-67
 	android:name
-		ADDED from [Chidori:chidori:unspecified] /Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/bundles/default/AndroidManifest.xml:11:17-64
+		ADDED from [com.kymjs.event:chidori:1.0.0] /Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/bundles/default/AndroidManifest.xml:11:17-64
 uses-permission#com.kymjs.event.EventBus.Chidori
-ADDED from [Chidori:chidori:unspecified] /Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/bundles/default/AndroidManifest.xml:13:5-72
+ADDED from [com.kymjs.event:chidori:1.0.0] /Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/bundles/default/AndroidManifest.xml:13:5-72
 	android:name
-		ADDED from [Chidori:chidori:unspecified] /Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/bundles/default/AndroidManifest.xml:13:22-69
+		ADDED from [com.kymjs.event:chidori:1.0.0] /Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/bundles/default/AndroidManifest.xml:13:22-69
 receiver#com.kymjs.event.remote.ChidoriClient
-ADDED from [Chidori:chidori:unspecified] /Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/bundles/default/AndroidManifest.xml:18:9-26:20
+ADDED from [com.kymjs.event:chidori:1.0.0] /Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/bundles/default/AndroidManifest.xml:18:9-26:20
 	android:process
-		ADDED from [Chidori:chidori:unspecified] /Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/bundles/default/AndroidManifest.xml:22:13-38
+		ADDED from [com.kymjs.event:chidori:1.0.0] /Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/bundles/default/AndroidManifest.xml:22:13-38
 	android:exported
-		ADDED from [Chidori:chidori:unspecified] /Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/bundles/default/AndroidManifest.xml:20:13-36
+		ADDED from [com.kymjs.event:chidori:1.0.0] /Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/bundles/default/AndroidManifest.xml:20:13-36
 	android:permission
-		ADDED from [Chidori:chidori:unspecified] /Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/bundles/default/AndroidManifest.xml:21:13-66
+		ADDED from [com.kymjs.event:chidori:1.0.0] /Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/bundles/default/AndroidManifest.xml:21:13-66
 	android:name
-		ADDED from [Chidori:chidori:unspecified] /Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/bundles/default/AndroidManifest.xml:19:13-64
+		ADDED from [com.kymjs.event:chidori:1.0.0] /Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/bundles/default/AndroidManifest.xml:19:13-64
 intent-filter#com.kymjs.event.EventBus.Chidori
-ADDED from [Chidori:chidori:unspecified] /Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/bundles/default/AndroidManifest.xml:23:13-25:29
+ADDED from [com.kymjs.event:chidori:1.0.0] /Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/bundles/default/AndroidManifest.xml:23:13-25:29
 action#com.kymjs.event.EventBus.Chidori
-ADDED from [Chidori:chidori:unspecified] /Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/bundles/default/AndroidManifest.xml:24:17-75
+ADDED from [com.kymjs.event:chidori:1.0.0] /Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/bundles/default/AndroidManifest.xml:24:17-75
 	android:name
-		ADDED from [Chidori:chidori:unspecified] /Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/bundles/default/AndroidManifest.xml:24:25-72
+		ADDED from [com.kymjs.event:chidori:1.0.0] /Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/bundles/default/AndroidManifest.xml:24:25-72
 service#com.kymjs.event.remote.ChidoriServer
-ADDED from [Chidori:chidori:unspecified] /Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/bundles/default/AndroidManifest.xml:28:9-72
+ADDED from [com.kymjs.event:chidori:1.0.0] /Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/bundles/default/AndroidManifest.xml:28:9-72
 	android:name
-		ADDED from [Chidori:chidori:unspecified] /Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/bundles/default/AndroidManifest.xml:28:18-69
+		ADDED from [com.kymjs.event:chidori:1.0.0] /Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/bundles/default/AndroidManifest.xml:28:18-69
 meta-data#android.support.VERSION
 ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/kymjs/.android/build-cache/d8ca445d140b348b5a2462ae5a6c81fa4e09672f/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-v4:25.3.1] /Users/kymjs/.android/build-cache/7c970b5a26b6f9b8366fd4318a13b73955cdac6b/output/AndroidManifest.xml:25:5-27:34

@@ -4,12 +4,12 @@
         "source": "/Users/kymjs/.android/build-cache/ee633ae6185542c4324d9585d6b8c9edcc749bcf/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "/Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
-        "source": "/Users/kymjs/.android/build-cache/ee633ae6185542c4324d9585d6b8c9edcc749bcf/output/res/layout/abc_alert_dialog_material.xml"
-    },
-    {
         "merged": "/Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
         "source": "/Users/kymjs/.android/build-cache/ee633ae6185542c4324d9585d6b8c9edcc749bcf/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/kymjs/.android/build-cache/ee633ae6185542c4324d9585d6b8c9edcc749bcf/output/res/layout/abc_alert_dialog_material.xml"
     },
     {
         "merged": "/Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",

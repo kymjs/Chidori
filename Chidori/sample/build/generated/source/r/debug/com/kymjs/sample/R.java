@@ -1865,8 +1865,7 @@ containing a value of this type.
         public static final int beginning=0x7f0b001a;
         public static final int bottom=0x7f0b0022;
         public static final int button1=0x7f0b0056;
-        public static final int button2=0x7f0b0057;
-        public static final int button3=0x7f0b0058;
+        public static final int button3=0x7f0b0057;
         public static final int buttonPanel=0x7f0b002e;
         public static final int cancel_action=0x7f0b005d;
         public static final int checkbox=0x7f0b003e;
@@ -1880,7 +1879,7 @@ containing a value of this type.
         public static final int disableHome=0x7f0b000c;
         public static final int edit_query=0x7f0b0049;
         public static final int end=0x7f0b001b;
-        public static final int end_padder=0x7f0b006f;
+        public static final int end_padder=0x7f0b006e;
         public static final int expand_activities_button=0x7f0b0028;
         public static final int expanded_menu=0x7f0b003d;
         public static final int home=0x7f0b0004;
@@ -1895,7 +1894,7 @@ containing a value of this type.
         public static final int listMode=0x7f0b0009;
         public static final int list_item=0x7f0b002b;
         public static final int media_actions=0x7f0b005f;
-        public static final int menu=0x7f0b0070;
+        public static final int menu=0x7f0b006f;
         public static final int middle=0x7f0b001c;
         public static final int multiply=0x7f0b0014;
         public static final int never=0x7f0b0020;
@@ -1938,7 +1937,7 @@ containing a value of this type.
         public static final int submenuarrow=0x7f0b0041;
         public static final int submit_area=0x7f0b0052;
         public static final int tabMode=0x7f0b000b;
-        public static final int text=0x7f0b006e;
+        public static final int text=0x7f0b0058;
         public static final int text2=0x7f0b006c;
         public static final int textSpacerNoButtons=0x7f0b0035;
         public static final int textSpacerNoTitle=0x7f0b0034;

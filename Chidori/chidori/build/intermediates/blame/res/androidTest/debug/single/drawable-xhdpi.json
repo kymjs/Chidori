@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_ic_voice_search_api_mtrl_alpha.png",
-        "source": "/Users/kymjs/.android/build-cache/ee633ae6185542c4324d9585d6b8c9edcc749bcf/output/res/drawable-xhdpi/abc_ic_voice_search_api_mtrl_alpha.png"
-    },
-    {
         "merged": "/Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_textfield_activated_mtrl_alpha.9.png",
         "source": "/Users/kymjs/.android/build-cache/ee633ae6185542c4324d9585d6b8c9edcc749bcf/output/res/drawable-xhdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/Users/kymjs/.android/build-cache/ee633ae6185542c4324d9585d6b8c9edcc749bcf/output/res/drawable-xhdpi/abc_ic_voice_search_api_mtrl_alpha.png"
     },
     {
         "merged": "/Users/kymjs/code/ASspace/ChidoriProject/Chidori/chidori/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_btn_rating_star_on_mtrl_alpha.png",

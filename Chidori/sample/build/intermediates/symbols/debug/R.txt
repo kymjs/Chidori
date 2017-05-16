@@ -547,8 +547,7 @@ int id always 0x7f0b001d
 int id beginning 0x7f0b001a
 int id bottom 0x7f0b0022
 int id button1 0x7f0b0056
-int id button2 0x7f0b0057
-int id button3 0x7f0b0058
+int id button3 0x7f0b0057
 int id buttonPanel 0x7f0b002e
 int id cancel_action 0x7f0b005d
 int id checkbox 0x7f0b003e
@@ -562,7 +561,7 @@ int id default_activity_button 0x7f0b002a
 int id disableHome 0x7f0b000c
 int id edit_query 0x7f0b0049
 int id end 0x7f0b001b
-int id end_padder 0x7f0b006f
+int id end_padder 0x7f0b006e
 int id expand_activities_button 0x7f0b0028
 int id expanded_menu 0x7f0b003d
 int id home 0x7f0b0004
@@ -577,7 +576,7 @@ int id line3 0x7f0b006d
 int id listMode 0x7f0b0009
 int id list_item 0x7f0b002b
 int id media_actions 0x7f0b005f
-int id menu 0x7f0b0070
+int id menu 0x7f0b006f
 int id middle 0x7f0b001c
 int id multiply 0x7f0b0014
 int id never 0x7f0b0020
@@ -620,7 +619,7 @@ int id status_bar_latest_event_content 0x7f0b005e
 int id submenuarrow 0x7f0b0041
 int id submit_area 0x7f0b0052
 int id tabMode 0x7f0b000b
-int id text 0x7f0b006e
+int id text 0x7f0b0058
 int id text2 0x7f0b006c
 int id textSpacerNoButtons 0x7f0b0035
 int id textSpacerNoTitle 0x7f0b0034

@@ -1,15 +1,15 @@
 [
     {
-        "merged": "/Users/kymjs/code/ASspace/ChidoriProject/Chidori/sample/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
-        "source": "/Users/kymjs/.android/build-cache/d8ca445d140b348b5a2462ae5a6c81fa4e09672f/output/res/drawable/abc_ratingbar_material.xml"
+        "merged": "/Users/kymjs/code/ASspace/ChidoriProject/Chidori/sample/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/kymjs/.android/build-cache/d8ca445d140b348b5a2462ae5a6c81fa4e09672f/output/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
         "merged": "/Users/kymjs/code/ASspace/ChidoriProject/Chidori/sample/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
         "source": "/Users/kymjs/.android/build-cache/d8ca445d140b348b5a2462ae5a6c81fa4e09672f/output/res/drawable/notification_bg_low.xml"
     },
     {
-        "merged": "/Users/kymjs/code/ASspace/ChidoriProject/Chidori/sample/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/Users/kymjs/.android/build-cache/d8ca445d140b348b5a2462ae5a6c81fa4e09672f/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+        "merged": "/Users/kymjs/code/ASspace/ChidoriProject/Chidori/sample/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/kymjs/.android/build-cache/d8ca445d140b348b5a2462ae5a6c81fa4e09672f/output/res/drawable/abc_ratingbar_material.xml"
     },
     {
         "merged": "/Users/kymjs/code/ASspace/ChidoriProject/Chidori/sample/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
